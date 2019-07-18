@@ -19,3 +19,5 @@ created image folder with : chinook.jpg, cutter.jpeg, family.jpg, fish.jpg,
 frosted-cookie.jpg, salmon.jpg, shirt.jpg
 
 created nav in all html files
+
+created mkdir css and style.css

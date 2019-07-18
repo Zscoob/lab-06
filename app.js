@@ -176,7 +176,7 @@ var alki={
 
 
 //create variable to hold all shops and assign an empty array
-var allShops = [pikePlace, seaTac, seattleCenter, capitolHill, alki, locationName ];//add my stores
+var allShops = [pikePlace, seaTac, seattleCenter, capitolHill, alki];//add my stores
 
  (function renderAllShops() {
   for(var i = 0; i < allShops.length; i++){
@@ -184,8 +184,4 @@ var allShops = [pikePlace, seaTac, seattleCenter, capitolHill, alki, locationNam
   }
 })();
 
-var locationName = new shopt();
-locationName.name = [];
-locationName.minCustomersPerHour = [];
-locationName.maxCustomersPerHour = [];
-locationName.avgCookiesPerSale = [];
+
