@@ -8,3 +8,6 @@ moved html in index to sales
 
 created table in sales
 working on an improved table in sales
+
+added form
+working on js for form
