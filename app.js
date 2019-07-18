@@ -183,3 +183,9 @@ var allShops = [pikePlace, seaTac, seattleCenter, capitolHill, alki ];//add my s
     allShops[i].render();
   }
 })();
+
+var locationName = new Object();
+locationName.name = [];
+locationName.minCustomersPerHour = [];
+locationName.maxCustomersPerHour = [];
+locationName.avgCookiesPerSale = [];
