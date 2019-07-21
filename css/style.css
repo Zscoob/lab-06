@@ -1,15 +1,20 @@
 html{
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d9/Seattle_3_banner.jpg");
     background-repeat: no-repeat;
-    background-size:100% 100%;
+    background-size:2000px 300px;
+    background-color:lightblue;
+    color:salmon;
     
 }
 a {
     font-size: 30px;
     color: cyan;
-    border:lightskyblue solid 5px
+    border:lightskyblue solid 5px;
     
 }
 img {
     height:175px;
 };
+p{
+    font-size:60px;
+}
