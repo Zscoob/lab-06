@@ -21,3 +21,7 @@ frosted-cookie.jpg, salmon.jpg, shirt.jpg
 created nav in all html files
 
 created mkdir css and style.css
+
+fixed image files to incorporate clear backgrounds.
+
+fixed some css, added background colors and changed the text color
